@@ -116,7 +116,7 @@ The dashboard presents business performance through visual comparisons and trend
 **Conclusion:** This project demonstrates a practical Python analytics workflow from raw data to cleaned records, KPI analysis, business visualizations, and evidence-based recommendations. Findings are illustrative because the dataset is synthetic.
 
 ## Author & Contact
-**Soumya Ranjan Bhola**  
-**Project:** Business Performance & Operational Analytics Dashboard  
-**Email:** soumyaranjan0359@gmail.com
+**Name:** Soumya Ranjan Bhola <br>
+**Project:** Business Performance & Operational Analytics Dashboard <br> 
+**Email:** soumyaranjan0359@gmail.com <br>
 **Linkedin:** www.linkedin.com/in/bsoumyaranjan
