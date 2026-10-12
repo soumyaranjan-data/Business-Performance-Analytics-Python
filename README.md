@@ -91,7 +91,7 @@ The analysis includes:
 These are descriptive results calculated from the synthetic project dataset.
 
 ## Dashboard
-![Business performance analytics dashboard](images/business_dashboard.png)
+![Business performance analytics dashboard](dashboard/business_dashboard.png)
 
 The dashboard presents business performance through visual comparisons and trend charts. Supporting data tables are available in the `outputs/` directory. A longer discussion is available in `Business_Performance_Analytics_Report.pdf`.
 
